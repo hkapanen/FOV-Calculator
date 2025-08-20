@@ -138,7 +138,7 @@ $(document).ready(function() {
 	$( "#screensizeSlider" ).slider({
 		range: false,
 		value: 27,
-		min: 10,
+		min: 9,
 		max: 30,
 		create: function() {
 			screensizeHandle.text($(this).slider("value") + '\'\'');
