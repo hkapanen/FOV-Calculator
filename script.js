@@ -1,7 +1,7 @@
 var allGames = {
 	'hfov': {
 		"hFov": {
-			decimals: 0,
+			decimals: 1,
 			factor: 1
 		},
 		"Project CARS 1/2": {
@@ -62,7 +62,7 @@ var allGames = {
 	},
 	'vfov' : {
 		"vFov": {
-			decimals: 0,
+			decimals: 1,
 			factor: 1
 		},
 		"Assetto Corsa, Assetto Corsa Competizione": {
